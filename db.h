@@ -13,7 +13,7 @@
 #define MIN_RETRY 1000
 
 // [vertical] update protocol version.
-#define REQUIRE_VERSION 90050
+#define REQUIRE_VERSION 90051
 
 static inline int GetRequireHeight(const bool testnet = fTestNet)
 {
